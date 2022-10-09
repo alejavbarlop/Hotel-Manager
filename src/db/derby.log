@@ -1,0 +1,19 @@
+Sat Oct 08 18:33:30 ART 2022 : Servidor de red Apache Derby: Se ha iniciado 10.15.2.0 - (1873585) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sat Oct 08 18:33:32 ART 2022:
+ Iniciando instancia a816c00e-0183-b984-7296-00000296fe89 de Derby, versión The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): 
+en el directorio de base de datos /home/sandaime/NetBeansProjects/Hotel-Manager/src/db/hoteldb con el cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@55054057
+Cargado desde file:/home/sandaime/netbeans/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Ubuntu
+user.dir=/home/sandaime/netbeans/db-derby-10.15.2.0-bin
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-126-generic
+derby.system.home=/home/sandaime/NetBeansProjects/Hotel-Manager/src/db
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Oct 08 18:34:33 ART 2022: cerrando motor de Derby
+----------------------------------------------------------------
+Sat Oct 08 18:34:33 ART 2022:
+Cerrando la instancia a816c00e-0183-b984-7296-00000296fe89 en el directorio de base de datos /home/sandaime/NetBeansProjects/Hotel-Manager/src/db/hoteldb con cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@55054057
+----------------------------------------------------------------
